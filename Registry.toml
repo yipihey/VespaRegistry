@@ -3,3 +3,4 @@ uuid = "1db22624-bb51-4b2b-b2eb-dfab97e46581"
 repo = "git@github.com:yipihey/VespaRegistry.git"
 
 [packages]
+1a2b3c4d-0013-4000-8000-000000000013 = { name = "EmissionKernels", path = "E/EmissionKernels" }

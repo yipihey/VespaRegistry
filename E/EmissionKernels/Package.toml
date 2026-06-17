@@ -1,0 +1,3 @@
+name = "EmissionKernels"
+uuid = "1a2b3c4d-0013-4000-8000-000000000013"
+repo = "git@github.com:yipihey/EmissionKernels.jl.git"
