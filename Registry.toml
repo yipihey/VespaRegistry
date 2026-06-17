@@ -1,0 +1,5 @@
+name = "VespaRegistry"
+uuid = "1db22624-bb51-4b2b-b2eb-dfab97e46581"
+repo = "git@github.com:yipihey/VespaRegistry.git"
+
+[packages]
